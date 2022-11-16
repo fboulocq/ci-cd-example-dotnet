@@ -4,7 +4,7 @@ name: Publish
 # 2 Trigger para mi acción
 on:
   # Me permite correr mi acción de forma manual
-  workflow_dispach:
+  workflow_dispatch:
   # Cuando se hace un push en la rama main
   push:
     branches:
